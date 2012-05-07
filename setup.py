@@ -5,7 +5,7 @@
 NAME = "ZenPacks.fdeckert.reports"
 VERSION = "1.2"
 AUTHOR = "Florian Deckert"
-LICENSE = ""
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.fdeckert']
 PACKAGES = ['ZenPacks', 'ZenPacks.fdeckert', 'ZenPacks.fdeckert.reports']
 INSTALL_REQUIRES = ['ZenPacks.SCC.ShowGraphPortlet>=1.01']
